@@ -10,8 +10,10 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+
 ![Metrics](https://metrics.lecoq.io/?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FMoscow)
 
+![Metrics](https://metrics.lecoq.io/KotGregor)
 
 <!--
 **KotGregor/KotGregor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
