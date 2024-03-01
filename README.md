@@ -1,7 +1,7 @@
 <!--### Hi there, I'm Yulia 👋-->
 <h1 align="center">Hi there, I'm <a href="https://vk.com/id276018793">Yulia</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KotGregor=compact)](https://github.com/aKotGregor/KotGregor)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KotGregor=compact)
 <!--
 **KotGregor/KotGregor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
