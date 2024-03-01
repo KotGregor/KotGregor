@@ -1,7 +1,18 @@
 <!--### Hi there, I'm Yulia 👋-->
 <h1 align="center">Hi there, I'm <a href="https://vk.com/id276018793">Yulia</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KotGregor&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KotGregor&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=KotGregor)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KotGregor&theme=solarized_dark)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Metrics](https://metrics.lecoq.io/?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FMoscow)
+
+
 <!--
 **KotGregor/KotGregor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
