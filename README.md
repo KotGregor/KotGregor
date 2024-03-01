@@ -16,11 +16,6 @@ I am working with these languages</h4>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KotGregor&repo=KotGregor.github.io&theme=dark)](https://github.com/KotGregor/KotGregor.github.io)
 
-
-
-
-
-
 <p>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KotGregor&theme=dark)
@@ -36,6 +31,7 @@ I am working with these languages</h4>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<h4>Just a mesmerizing animation for unwinding after work😴</h4>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
